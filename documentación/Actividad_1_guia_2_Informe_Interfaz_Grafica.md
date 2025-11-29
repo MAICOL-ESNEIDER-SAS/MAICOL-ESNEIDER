@@ -9,7 +9,7 @@
 **Actividad:** Informe sobre Interfaces Gráficas  
 **Tema:** Análisis comparativo entre SOFIA Plus e Instagram  
 **Aprendiz:** Maicol Esneider Posada Callejas  
-**Fecha:** {{Actualiza la fecha cuando lo entregues}}  
+**Fecha:** 01/11/2025 
 
 ---
 
@@ -91,4 +91,4 @@ Los estándares de diseño como **Material Design** y las **Human Interface Guid
 
 ## 5. Enlace al video (pendiente de subir)
 
-👉 [Video de análisis](https://youtu.be/TU-LINK-AQUI)
+👉 [Video de análisis](https://youtu.be/analizis-maicol)
